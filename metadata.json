@@ -1,0 +1,6 @@
+{
+  "name": "WMS ALP – Gestão Inteligente de Armazém",
+  "description": "Sistema WMS completo para gerenciamento de armazém com mapa interativo de 150 posições, recebimento, expedição, controle de estoque, relatórios e persistência local.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
